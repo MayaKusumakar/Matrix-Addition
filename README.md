@@ -3,23 +3,23 @@
 Write a program that adds two matrices together.
 
 ## Specifications
-The values in the matrices will always be integers
-The maximum size of a matrix is 100 X 100
-The matrices will not always be square (have the same number of rows and columns)
-The matrix will be entered one line at a time
+  - The values in the matrices will always be integers
+  - The maximum size of a matrix is 100 X 100
+  - The matrices will not always be square (have the same number of rows and columns)
+  - The matrix will be entered one line at a time
 ## Assumptions
 Input will always be valid.
 
 ## Valid Input
-The user will enter input in the following order
+The user will enter input in the following order:
 
-The number of rows in the matrices
-The number of columns in the matrices
-The values of matrix A
-The values of matrix B
+1. The number of rows in the matrices
+2. The number of columns in the matrices
+3. The values of matrix A
+4. The values of matrix B
 ## Requirements
 Print all floats to 2 decimal points unless stated otherwise
-You must use have at least three functions in your program
+Must use at least three functions in the program
 
 ## Restrictions
 No global variables may be used
